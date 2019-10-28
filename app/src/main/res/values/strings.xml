@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Fragment %s start rating</string>
+    <string name="language">Language</string>
+</resources>
